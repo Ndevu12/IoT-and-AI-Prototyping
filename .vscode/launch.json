@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/ndevu/Desktop/IoT-and-AI-Prototyping",
-      "program": "/Users/ndevu/Desktop/IoT-and-AI-Prototyping/build/Debug/outDebug"
+      "cwd": "/Users/ndevu/Desktop/IoT-and-AI-Prototyping/IoT/basic_wazDev",
+      "program": "/Users/ndevu/Desktop/IoT-and-AI-Prototyping/IoT/basic_wazDev/build/Debug/outDebug"
     }
   ]
 }
