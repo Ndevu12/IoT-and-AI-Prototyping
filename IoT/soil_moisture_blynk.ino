@@ -29,7 +29,6 @@ int waterValue = 1023;
 int soilMoistureValue = 0;
 
 
-
 // the setup function runs once when you press reset or power the board
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
