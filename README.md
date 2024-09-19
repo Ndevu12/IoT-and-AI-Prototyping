@@ -18,14 +18,10 @@ The workshop focuses on IoT and AI prototyping, providing training to enhance an
 ## Technologies and Tools
 
 - Raspberry Pi, Arduino nano 33 BLE, WazDev, and Arduino uno
-- TensorFlow, PyTorch and Pandas
+- TensorFlow, PyTorch, and Pandas
 - Edge Impulse
 
 ## Acknowledgements
 
 I'd like to thank the IoT and AI Incubation Tech Hub for this opportunity to enhance my project through their prototyping workshop.
 
-## Contact
-
-- Jean Paul Elisa NIYOKWIZERWA
-- [Email] <niyokwizerwajeanpaulelisa.com>
